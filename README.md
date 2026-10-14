@@ -32,14 +32,18 @@ Interaction events are stored at the frame level so that selected interactions a
 
 The source code is currently private while the toolkit is undergoing development, validation, and preparation for publication.
 
-Researchers interested in testing the toolkit or using it for academic research may request access.
+Researchers interested in testing or using the toolkit for academic research may request access by opening an **Issue** in this repository.
 
-Please provide:
+Please include the following information in the request:
 
 - Name
 - Institution / affiliation
 - Research purpose
 - GitHub username
+
+Suggested issue title:
+
+`Request for source code access`
 
 Access may be provided on a case-by-case basis during the development and validation stage.
 
